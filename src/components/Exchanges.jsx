@@ -37,7 +37,7 @@ const Exchanges = () => {
                         <strong>{exchange.rank}.</strong>
                       </Text>
                       <Avatar
-                        className='exchange-image'
+                        className="exchange-image"
                         src={exchange.iconUrl}
                       />
                       <Text>
